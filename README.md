@@ -29,4 +29,4 @@ CSS3 - Styling and layout for an appealing UI.
 
 If available, provide a live preview link here:
 
-[Live Demo](your-live-link-here)
+[Live Demo](https://aadi-si.github.io/ModelVerse/)
